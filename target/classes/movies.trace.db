@@ -1,0 +1,21 @@
+2023-04-24 11:50:16 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "MOVIELIST" not found (this database is empty); SQL statement:
+SELECT * FROM MOVIELIST [42104-214]
+2023-04-24 11:51:10 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "MOVIELIST" not found (this database is empty); SQL statement:
+SELECT * FROM MOVIELIST [42104-214]
+2023-04-24 11:51:26 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "MOVIELIST" not found (this database is empty); SQL statement:
+INSERT INTO MOVIELIST(movieName,leadActor) VALUES(?,?) [42104-214]
+2023-04-24 12:02:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "MOVIELIST" not found (this database is empty); SQL statement:
+SELECT * FROM MOVIELIST [42104-214]
+2023-04-24 13:05:09 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "MOVIELIST" not found (this database is empty); SQL statement:
+SELECT * FROM MOVIELIST [42104-214]
+2023-04-24 14:00:26 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "MOVIELIST" not found (this database is empty); SQL statement:
+SELECT * FROM MOVIELIST [42104-214]
+2023-04-25 07:13:40 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "MOVIELIST" not found (this database is empty); SQL statement:
+select * from movielist [42104-214]
